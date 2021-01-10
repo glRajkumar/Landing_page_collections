@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+    margin: 1.5rem 0;
+}
+
+.pages{
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.pages > *{
+    flex: 1 1 250px;
+}
+
+.page-holder{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    border: 1px solid rgba(0, 0, 0, .2);
+    border-radius: 10px;
+    margin-bottom: .5rem;
+    padding: 1rem;
+}
+
+.page-holder img{
+    max-width: 3rem;
+}
+
+#school img{
+    border-radius: 5px;
+    background: linear-gradient(to right,#8EE5B6, #00C4D8);
+}
