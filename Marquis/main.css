@@ -95,6 +95,7 @@ nav header div p:first-child{
 .nav-detail div{
     margin: 0 1rem;
 }
+
 nav header div img{
     margin-right: 0.5rem;
 }
@@ -292,6 +293,7 @@ select{
     width: 400px;
     height: 600px;
 }
+
 .offer div{
     position: relative;
 }
@@ -315,6 +317,7 @@ select{
     width: 1680px;
     height: 600px;
 }
+
 .specialoff button{
     border: 1px solid var(--primary-blue);
     background-color: #fff;
